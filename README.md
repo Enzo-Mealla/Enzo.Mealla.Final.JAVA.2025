@@ -1,6 +1,6 @@
 Sistema de gestion de inventario - buloneria
 
-Hola soy enzo Nahuel mealla soy estudiante de la tecnicatura universitaria en programacion
+Hola soy Enzo Nahuel mealla soy estudiante de la tecnicatura universitaria en programacion
 de la UTN.
 
 Este proyecto consiste en una aplicacion de escritorio desarrollada en java utilizando JavaFX
