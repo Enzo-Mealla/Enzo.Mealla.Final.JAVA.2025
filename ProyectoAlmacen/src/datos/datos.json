@@ -1,0 +1,42 @@
+[
+  {
+    "diametroMM": 10,
+    "longitud": 50.0,
+    "tipoRosca": "METRICA",
+    "longitudVastagoR": 20.0,
+    "id": 1,
+    "nombre": "Bulon Cabeza Hexagonal 10mmx50mm ",
+    "stock": 100,
+    "tipoTratamiento": "ZINCADO",
+    "precioUtil": 135.0
+  },
+  {
+    "diametroMM": 12,
+    "longitud": 60.0,
+    "tipoRosca": "WHITWORTH",
+    "longitudVastagoR": 30.0,
+    "id": 2,
+    "nombre": "Bulon Cabeza Redonda 12mmx60mm",
+    "stock": 50,
+    "tipoTratamiento": "CROMADO",
+    "precioUtil": 180.0
+  },
+  {
+    "diametroInterior": 20,
+    "tipoArandela": "PLANA",
+    "id": 3,
+    "nombre": "Arandela Plana Redonda M20",
+    "stock": 100,
+    "tipoTratamiento": "ZINCADO",
+    "precioUtil": 1000.0
+  },
+  {
+    "diametroMM": 20,
+    "tipoRosca": "WHITWORTH",
+    "id": 4,
+    "nombre": "Tuerca M20",
+    "stock": 100,
+    "tipoTratamiento": "GALVANIZADO_EN_CALIENTE",
+    "precioUtil": 1500.0
+  }
+]
