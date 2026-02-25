@@ -1,5 +1,8 @@
 Sistema de gestion de inventario - buloneria
 
+Hola soy enzo Nahuel mealla soy estudiante de la tecnicatura universitaria en programacion
+de la UTN.
+
 Este proyecto consiste en una aplicacion de escritorio desarrollada en java utilizando JavaFX
 para la gestion integral de un inventario de buloneria. El sistema permite realizar operaciones CRUD,
 filtrado avanzado mediante Streams y persistencia de datos en multiples formatos.
